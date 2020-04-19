@@ -14,7 +14,7 @@
     <StartupObject>
     </StartupObject>
     <ApplicationIcon>Resources\Icon.ico</ApplicationIcon>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>

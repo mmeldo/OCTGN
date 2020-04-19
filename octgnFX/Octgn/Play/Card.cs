@@ -452,7 +452,6 @@ namespace Octgn.Play
             set
             {
                 SetHighlight(value);
-                Program.Client.Rpc.Highlight(this, value);
             }
         }
         public string HighlightColorString
